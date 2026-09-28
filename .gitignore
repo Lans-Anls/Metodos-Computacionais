@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local coursework, submissions, and source photos are not part of the app.
+/Excel/
+/IMG/
+/AjusteCurvas/Excel/
+/AjusteCurvas/IMG/Graficos/
+/Interpolacao/Excel/
+/Interpolacao/IMG/Graficos/
+/MetodosLineares/Excel/
+/MetodosLineares/IMG/Graficos/
+/Metodo de newton/Excel/
+/Metodo de newton/IMG/Graficos/
